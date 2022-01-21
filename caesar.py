@@ -1,6 +1,4 @@
 
-
-
 def caesar(key,plain_text):
     encrypted_text = ""
     for c in plain_text:
